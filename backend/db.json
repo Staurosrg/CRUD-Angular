@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta BIC preta",
+      "price": 5.89
+    },
+    {
+      "id": "2",
+      "name": "Notebook Mac",
+      "price": 12500
+    },
+    {
+      "id": "3",
+      "name": "Celular Samsung S23",
+      "price": 8000.89
+    },
+    {
+      "id": "2d0b",
+      "name": "Produto teste",
+      "price": "458.35"
+    }
+  ],
+  "peoples": [
+    {
+      "id": "0d81",
+      "name": "Marcelo Ferreira dos santos silva",
+      "cpf": 45269825652,
+      "data_nasc": "1998-01-03"
+    },
+    {
+      "id": "0efa",
+      "name": "José Ferreira",
+      "cpf": 152652325,
+      "data_nasc": "1996-10-26"
+    },
+    {
+      "id": "2e2a",
+      "name": "Pedr",
+      "cpf": 332532325,
+      "data_nasc": "1994-04-04"
+    }
+  ]
+}
